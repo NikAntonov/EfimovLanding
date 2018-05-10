@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2017 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="20px" height="20px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 3300 3300"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:#37AEE2}
+    .fil1 {fill:white;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="form_x0020_01-good-and-neutral">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2406422115008">
+   <path class="fil0" d="M3000 0l-2700 0c-200,0 -300,100 -300,300l0 2700c0,100 100,300 300,300l2700 0c100,0 300,-200 300,-300l0 -2700c0,-200 -200,-300 -300,-300z"/>
+   <path class="fil1" d="M500 1600l500 200 200 600c0,100 100,100 100,100l300 -300c0,0 100,0 100,0l500 400c100,0 100,0 100,0l400 -1800c0,-100 0,-100 -100,-100l-2100 800c0,0 0,100 0,100zm700 100l1000 -600c0,0 0,0 0,0l-800 800c0,0 0,100 -100,100l0 200c0,0 0,0 0,0l-100 -400c-100,0 0,-100 0,-100z"/>
+  </g>
+ </g>
+</svg>

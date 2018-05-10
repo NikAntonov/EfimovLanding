@@ -1,0 +1,19 @@
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+body {
+  padding-top: 3.5rem;
+}
+
+.jumbotron {
+  background: url("../graphics/Backgrounds/header-back-01.jpg") no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: auto;
+  padding-bottom: 170px;
+}
+
+.jumbotron h1 {
+  color: #ffffff;
+  text-shadow: 1px 1px 2px black, 0 0 1em grey;
+  font-size: 64pt;
+  font-weight: bold;
+}

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2017 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="180px" height="200px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 13000 14700"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil3 {fill:#FBCF9D;fill-rule:nonzero}
+    .fil2 {fill:#DE679F;fill-rule:nonzero}
+    .fil1 {fill:#CCE3C4;fill-rule:nonzero}
+    .fil0 {fill:#7FCAD4;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="form_x0020_01-good-and-neutral">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2406497100000">
+   <polygon class="fil0" points="0,0 0,14700 7700,7200 "/>
+   <polygon class="fil1" points="9700,5200 6700,3400 0,0 7700,7200 "/>
+   <polygon class="fil2" points="0,14700 0,14700 6700,11000 9700,9200 7700,7200 "/>
+   <path class="fil3" d="M9700 5200l-2000 2000 2000 2000 3100 -1800c200,-100 200,-300 0,-400l-3100 -1800z"/>
+  </g>
+ </g>
+</svg>
