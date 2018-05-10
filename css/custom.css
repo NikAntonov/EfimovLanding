@@ -1,4 +1,4 @@
-.btn-primary {
+.btn-primary-alt {
     background-color: #3d5476;
     border-color: #ffffff;
     border-radius: 0;
@@ -6,13 +6,13 @@
     height: min-content;
 }
 
-.btn-primary:hover {
+.btn-primary-alt:hover {
     background-color: #ffffff;
     border-color: #ffffff;
     color: #3d5476;
 }
 
-.btn-primary:focus {
+.btn-primary-alt:focus {
     background-color: yellowgreen;
     border-color: yellowgreen;
 
@@ -46,5 +46,122 @@ footer {
 }
 
 .wrapper {
+    text-align: left;
+    text-align-all: center;
+}
+
+.li-footer {
+    color: white;
+    list-style-type: none;
+}
+.a-footer {
+    color: white;
+    text-decoration-line: none;
+}
+
+.a-footer:hover {
+    color: white;
+    text-decoration-line: none;
+    font-weight: bold;
+}
+
+.a-footer:active .a-footer:focus .a-footer:visited {
+    color: yellowgreen;
+    text-decoration-line: none;
+    font-weight: bold;
+}
+
+.content-main {
     text-align: center;
+}
+
+.content-p-main {
+    font-size: 14pt;
+}
+
+.divider {
+    background-color: #3d5476 !important;
+}
+
+#about {
+    padding-top: 50px;
+}
+
+.jumbotron {
+    background: url("../graphics/Backgrounds/header-back-01.jpg") no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+    text-align: left !important;
+    padding-bottom: 200px;
+}
+
+.jumbotron h1 {
+    color: #ffffff;
+    text-shadow: 1px 1px 2px black, 0 0 1em grey;
+    font-size: 64pt;
+    font-weight: bold;
+}
+
+body {
+    padding-top: 3.5rem;
+}
+
+.btn-primary {
+    background-color: white;
+    border-color: #3d5476;
+    border-radius: 0;
+    color: #3d5476;
+    height: auto;
+}
+
+.btn-primary:hover {
+    background-color: #3d5476;
+    border-color: #3d5476;
+    color: white;
+}
+
+.btn-primary:focus {
+    background-color: yellowgreen;
+    border-color: yellowgreen;
+
+    color: #ffffff;
+    user-focus: ignore;
+    user-focus-key: ignore;
+    user-focus-pointer: ignore ;
+}
+
+#experience {
+    text-align: right;
+}
+
+#hire {
+    text-align: left;
+}
+
+button {
+    text-align: center;
+}
+
+.li-main {
+    color: #3d5476;
+    list-style-type: none;
+}
+
+.a-main {
+    color: white;
+    text-decoration-line: none;
+    text-align: left !important;
+}
+
+.a-main:hover {
+    color: white;
+    text-decoration-line: none;
+    font-weight: bold;
+}
+
+.a-main:active .a-main:focus .a-main:visited {
+    color: yellowgreen;
+    text-decoration-line: none;
+    font-weight: bold;
 }
