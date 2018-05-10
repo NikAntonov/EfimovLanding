@@ -3,12 +3,12 @@
     border-color: #ffffff;
     border-radius: 0;
     color: #ffffff;
+    height: min-content;
 }
 
 .btn-primary:hover {
     background-color: #ffffff;
     border-color: #ffffff;
-
     color: #3d5476;
 }
 
@@ -24,4 +24,27 @@
 
 #main{
     background-color: #3d5476 !important;
+}
+
+footer {
+    background-color: #243259;
+    width: 100% !important;
+}
+.footer-custom {
+    background-color: #3d5476 !important;
+    width: inherit;
+    padding: 50px 50px 50px 50px;
+
+}
+
+#nav-footer #social {
+    text-align: left !important;
+}
+
+#footer-btn {
+    float: right;
+}
+
+.wrapper {
+    text-align: center;
 }
